@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JoaquinL\\Desktop\\Joaquin\\MiniJuego\\VegaJuego\\VegaJuego.csproj",
+      "projectUniqueName": "C:\\Users\\JoaquinL\\Documents\\Entornos\\VegaJuego\\VegaJuego.csproj",
       "projectName": "VegaJuego",
-      "projectPath": "C:\\Users\\JoaquinL\\Desktop\\Joaquin\\MiniJuego\\VegaJuego\\VegaJuego.csproj",
+      "projectPath": "C:\\Users\\JoaquinL\\Documents\\Entornos\\VegaJuego\\VegaJuego.csproj",
       "packagesPath": "C:\\Users\\JoaquinL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JoaquinL\\Desktop\\Joaquin\\MiniJuego\\VegaJuego\\obj\\",
+      "outputPath": "C:\\Users\\JoaquinL\\Documents\\Entornos\\VegaJuego\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JoaquinL\\AppData\\Roaming\\NuGet\\NuGet.Config",
